@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/employee_salary2">
+    <fragment
+        android:id="@+id/employee_salary2"
+        android:name="com.example.Khabeer_task.ui.EmployeeSalary"
+        android:label="fragment_employee_salary"
+        tools:layout="@layout/fragment_employee_salary" />
+</navigation>

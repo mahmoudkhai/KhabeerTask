@@ -1,0 +1,13 @@
+<resources>
+    <string name="اسم_الصفحة">راتب الموظف</string>
+    <string name="القيمة">القيمة</string>
+    <string name="طبيعة_العمل">طبيعة العمل</string>
+    <string name="البند">البند</string>
+    <string name="مرتب_أساسى">مرتب أساسى</string>
+    <string name="استقطاعات_أخرى">استقطاعات أخرى</string>
+    <string name="إجمالى_الراتب">إجمالى الراتب</string>
+    <string name="الإستحقاقات">الإستحقاقات</string>
+    <string name="الإستقطاعات">الإستقطاعات</string>
+    <string name="م">م</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

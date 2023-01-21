@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="اسم_الصفحة">Employee Salary</string>
+    <string name="القيمة">Value</string>
+    <string name="طبيعة_العمل">Work Nature</string>
+    <string name="البند">Clause</string>
+    <string name="مرتب_أساسى">Major Salary</string>
+    <string name="استقطاعات_أخرى">Other Deductions</string>
+    <string name="إجمالى_الراتب">Total Salary</string>
+    <string name="الإستحقاقات">Entitlements</string>
+    <string name="الإستقطاعات">Deductions</string>
+    <string name="م">M</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
